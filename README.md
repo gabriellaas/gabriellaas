@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gabriella Araújo!
-- ⭐ My pronouns are she/they.
-- 💕 I’m interested in back-end and mobile development, especially C#/.NET and Flutter.
-- 🌱 I’m currently an intern and am learning a bit of everything.
+- 👋 Oi, meu nome é Gabriella Araújo! / Hi, I’m Gabriella Araújo!
+- ⭐ Meus pronomes são ela/dela. / My pronouns are she/they.
+- 💕 Tenho interesse em desenvolvimento web e mobile. Atualmente estou estudando Python, mas já trabalhei com C#/.NET e quero aprender mais sobre Javascript e Flutter. / I’m interested in web and mobile development. Currently, I'm studying Python, but I've worked with C#/.NET and want to learn more about Javascript and Flutter.
+- 🌱 Trabalhei como estagiária e dev jr. por um ano. / I worked as an intern and a junior developer for about a year.
 
 ##
 
@@ -14,6 +14,7 @@
   <img align="center" alt="HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 </div>
 <br />
 
